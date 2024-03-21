@@ -5,7 +5,7 @@ on:
     inputs: 
       myinput:
         type: string 
-        #default: vijay
+        
 
 
 jobs:
